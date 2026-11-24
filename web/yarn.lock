@@ -6429,12 +6429,10 @@ husky@^9.1.5:
   resolved "https://registry.npmmirror.com/husky/-/husky-9.1.5.tgz"
   integrity sha512-rowAVRUBfI0b4+niA4SJMhfQwc107VLkBUgEYYAOQAbqDCnra1nYh83hF/MDmhYs9t9n1E3DuKOrs2LYNC+0Ag==
 
-i18next@^23.4.5:
-  version "23.11.5"
-  resolved "https://registry.npmmirror.com/i18next/-/i18next-23.11.5.tgz"
-  integrity sha512-41pvpVbW9rhZPk5xjCX2TPJi2861LEig/YRhUkY+1FQ2IQPS0bKUDYnEqY8XPPbB48h1uIwLnP9iiEfuSl20CA==
-  dependencies:
-    "@babel/runtime" "^7.23.2"
+i18next@^27.2.6:
+  version "27.2.6"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-27.2.6.tgz#7f8294d60a4adb81959a508a2d359fc6f06db596"
+  integrity sha512-ScRHHL/oAHaEgi78K770XIDQmOiq3BLjD4zxEoDeva4NLXXLPb83mzeSjFw7SefkwCEpLNC+560Pg0Q3BnCLsA==
 
 iconv-lite@0.4:
   version "0.4.24"
